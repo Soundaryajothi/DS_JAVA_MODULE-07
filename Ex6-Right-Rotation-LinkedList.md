@@ -95,3 +95,12 @@ class prog {
         sc.close();
     }
 }
+```
+
+## Output:
+
+<img width="882" height="256" alt="image" src="https://github.com/user-attachments/assets/6cc3aaf3-9af8-4331-a8fb-dc3d80997ee9" />
+
+
+## Result:
+Thus, the C program to perfom right rotation on linked list is implemented successfully.
